@@ -1,0 +1,8 @@
+grzegorz_milczuk_symfony:
+    resource: "@GrzegorzMilczukSymfonyBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

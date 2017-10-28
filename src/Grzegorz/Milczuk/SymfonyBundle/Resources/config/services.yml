@@ -1,0 +1,4 @@
+services:
+#    grzegorz_milczuk_symfony.example:
+#        class: Grzegorz\Milczuk\SymfonyBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
